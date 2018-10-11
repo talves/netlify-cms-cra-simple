@@ -1,3 +1,8 @@
+Simple example of setting up NetlifyCMS on Create-React-App without routes
+
+[![Deploy to netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/talves/netlify-cms-cra-simple&amp;stack=cms)
+
+-------------------
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
