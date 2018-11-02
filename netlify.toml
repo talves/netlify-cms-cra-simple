@@ -1,0 +1,15 @@
+# Global settings applied to the whole site.
+# “base” is directory to change to before starting build, and
+# “publish” is the directory to publish (relative to root of your repo).
+# “command” is your build command.
+
+[build]
+  publish = "build"
+  command = "yarn build"
+
+# Always redirect any request to our index.html
+# and return the status code 200.
+[[redirects]]
+  from    = "/*"
+  to      = "/index.html"
+  status  = 200
